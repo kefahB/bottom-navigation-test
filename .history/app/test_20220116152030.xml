@@ -1,0 +1,4 @@
+<Page actionBarHidden="true">
+    <Button text="TAP ME" tap="tap" />
+    
+</Page>

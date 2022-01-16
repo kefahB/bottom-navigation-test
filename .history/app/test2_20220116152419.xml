@@ -1,0 +1,8 @@
+<Page actionBarHidden="true">
+
+    <StackLayout>
+        <Label text="PAGE TEST 2" textWrap="true" />
+        
+    </StackLayout>
+
+</Page>
